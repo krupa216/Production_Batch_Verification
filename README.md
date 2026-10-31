@@ -1,4 +1,4 @@
-**understanding about the Problem statement and Solution**
+**Understanding about the Problem statement and Solution**
 
 In production environments, reviewers often discover missing signatures, incomplete documentation, and validation errors only after a production release deadline has been missed.
 
@@ -22,11 +22,15 @@ This helps reviewers identify potential issues early, reduce manual verification
 5.Validate documents using Pydantic and Pandas.
 
 6.Identify invalid batches and notify reviewers early.
+    example-displays an alert, such as “Invalid batch detected. 3 documents have errors.”
 
 7.Store results in PostgreSQL and display them in React.
 
+**System Architecture**
+
+<img width="593" height="401" alt="image" src="https://github.com/user-attachments/assets/0e60dda1-2117-48ae-b3d7-121ebdd74472" />
+
 **Key Features**
-Key Features
 
 - Multiple PDF Upload
   
@@ -55,5 +59,6 @@ Key Features
 - Interactive Dashboard
 
 **TechStack which used to increase the efficiency**
+
 <img width="682" height="193" alt="image" src="https://github.com/user-attachments/assets/0bb6d177-1e88-423a-a2a7-c2244c9e260e" />
 
