@@ -5,9 +5,9 @@ In production environments, reviewers often discover missing signatures, incompl
 This system addresses that problem by allowing reviewers to upload multiple PDF documents in batches, automatically extract relevant information, perform validation checks, and generate detailed verification reports.
 
 
-The system aims to increase the speed of document verification by automating PDF processing and validation. It identifies invalid batches, detects missing information and signatures, and generates instant notifications before manual review begins.
+**The system aims to increase the speed of document verification by automating PDF processing and validation. It identifies invalid batches, detects missing information and signatures, and generates instant notifications before manual review begins.**
 
-This helps reviewers identify potential issues early, reduce manual verification time, and prevent production release delays.
+**This helps reviewers identify potential issues early, reduce manual verification time, and prevent production release delays.**
 
 **System workflow Planned**
 
