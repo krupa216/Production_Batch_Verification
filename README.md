@@ -26,7 +26,13 @@ This system addresses that problem by allowing reviewers to upload multiple PDF 
 
 7.Store results in PostgreSQL and display them in React.
 
+**TechStack which used to increase the efficiency**
+
+
+<img width="682" height="193" alt="image" src="https://github.com/user-attachments/assets/0bb6d177-1e88-423a-a2a7-c2244c9e260e" />
+
 **System Architecture**
+
 
 <img width="593" height="401" alt="image" src="https://github.com/user-attachments/assets/0e60dda1-2117-48ae-b3d7-121ebdd74472" />
 
@@ -46,19 +52,13 @@ This system addresses that problem by allowing reviewers to upload multiple PDF 
   
 - Duplicate Document Detection
   
-- Test Result Comparison
-  
 - Batch Status Verification
   
 - Early Error Notifications
-  
-- Detailed Error Reports
 
 - Verification History
   
 - Interactive Dashboard
 
-**TechStack which used to increase the efficiency**
 
-<img width="682" height="193" alt="image" src="https://github.com/user-attachments/assets/0bb6d177-1e88-423a-a2a7-c2244c9e260e" />
 
